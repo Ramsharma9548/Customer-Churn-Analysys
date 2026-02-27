@@ -1,4 +1,5 @@
-CUSUMER_CHARN_ANALYSIS
+CUSTOMER_CHARN_ANALYSIS
+
 Based on the comprehensive churn analysis in the notebook, here is an executive summary highlighting the key statistics and your findings.
 
 **Executive Summary: Customer Churn Analysis**
